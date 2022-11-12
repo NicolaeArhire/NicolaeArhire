@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicolaeArhire
 - 👀 I’m interested in software development/ math sciences/ gometric kernels/ data queries
-- 🌱 I’m currently learning HTML/CSS/JS/React/ANGULAR 
-- 💞️ I’m looking to collaborate on future chaallenging projects
+- 🌱 I’m currently learning JS/React/ANGULAR 
+- 💞️ I’m looking to collaborate on future challenging projects
 - 📫 You can reach me at nicolae.arhire@gmail.com
 
 <!---
